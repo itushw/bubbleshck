@@ -1,0 +1,6 @@
+{
+  "name": "BUBBLES - Flood Response & Evacuation Command",
+  "description": "AI-guided flood response decision-support portal, synthetic multi-agent coordination engine, dynamic risk map overlay, river overflow simulation, emergency alerts, and localized evacuation planner.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
